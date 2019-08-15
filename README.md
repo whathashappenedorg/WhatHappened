@@ -1,6 +1,6 @@
 # WhatHappened
 
-Information is everywhere. But to what extend do you trust them?
+Information is everywhere. But to what extent do you trust them?
 
 Information is everywhere, but they are not well connected, at least not in a way that is relevant to the topic mostly concerned.
 
